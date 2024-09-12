@@ -1,0 +1,12 @@
+UserID: 6107408914 | Time: 2024-09-11 20:04:54.794955 | Command: /bgmi | Target: 13.76.102.115 | Port: 17500 | Time: 120
+Username: @Hackeralokgray
+Target: 13.76.102.115
+Port: 17500
+Time: 120
+
+UserID: 6623523273 | Time: 2024-09-11 20:45:23.892996 | Command: /bgmi | Target: 20.235.14.82 | Port: 11878 | Time: 180
+Username: @GrayHacker_bot
+Target: 20.235.14.82
+Port: 11878
+Time: 180
+
